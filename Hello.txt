@@ -1,5 +1,6 @@
-print("Hello world!")
-print("Hello!")
-print("Hello all!!")
-print("Hello my dear friend")
-print("Glad to see you")
+print("Hello world!;")
+print("Hello!;")
+print("Hello all!!;")
+print("Hello my dear friend;")
+print("Glad to see you;")
+
